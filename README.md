@@ -1,2 +1,0 @@
-# Hellopwa
-HelloPWA
